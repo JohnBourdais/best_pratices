@@ -2,8 +2,6 @@
 
 Standards and best practices guides for various front-end technologies.
 
-
-
 ## CSS:
 
 ## HTML:
@@ -14,7 +12,9 @@ Standards and best practices guides for various front-end technologies.
 
 ## Php:
 
-## Java
+## Java:
+
+## Git:
 
 ## Plugin:
 
