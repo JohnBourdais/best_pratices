@@ -1,22 +1,36 @@
 # Suite Logicielle
 
 
-## Images :
-
-	* Photoshop
-	* Illustrator
-	* Fireworks
-	* AutoPano
-	* 
-
 ## Organisation :
-
+	
+	* Unlocker
 	* Everything
 	* Fence
+	* Ditto
+	* PrtScr ou FastStone Capture
 
 ## Bureautique :
 
+	* Office
 	* 
+
+## Multimédia : 
+
+	## Image :
+
+		* Photoshop
+		* Illustrator
+		* Fireworks
+		* AutoPano
+
+	## Vidéo :
+
+		* Vlc
+		* XBMC
+
+	## Musique :
+	
+		* Itunes
 
 ## Navigateur :
 
@@ -25,15 +39,45 @@
 	* Opera
 	* Safari
 
-	### Modules : 		
+	### Extensions : 		
 
-		*
+		* Adblock
+		* OneTab
+		* Fireshoot
 
+		* Firebug
+		* Web Developpeur Tools
+		* Cookies Manager
+		
+		* Stylish
+		* HeadingsMap
+		* 
 
+		* RestClient ou RestEasy
 
 ## Développement :
 
  	* NotePad ++
+
+ 	* NodeJs 	
+	* Koala
+ 	* Pleeease
+	
+	* ConsoleZ
+
+	* Ruby
+	* Gitbash 	
+
+	### Versioning : 	
+		
+		* Git	
+		* SourceTree
+		* TortoiseSVN
+		* TortoiseGit
+
+	### Merge : 	
+
+		* KDiff3
 
 	### IDE : 	
 
@@ -43,20 +87,23 @@
 
 	### Java : 	
 
-	 	* JDK
+	 	* JDK & JRE
+
+	### Serveur :
 
 	 	* Tomcat 
 	 	* Apache
+	 	* Wamp Serveur
 
-	### PHP : 	
+	### Intégration : 	
 
 	 	* MySQL Workbench
 	 	* SQL Developpeur
-	 	* Wamp Serveur
+	 	* FileZilla
 
-	 	* Koala
-	 	* Gitbash
-	 	* NodeJs
-	 	* Ruby
-	 	* Pleeease
-	 	* 
+	### PHP : 	
+
+		* XDebug
+		* Drupal
+		* MySQL
+		* PhpMyAdmin	 	 
