@@ -1,4 +1,4 @@
-# Suite Logiciel
+# Suite Logicielle
 
 
 ## Images :
