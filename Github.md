@@ -20,3 +20,6 @@ http://www.alsacreations.com/article/lire/1647-synchroniser-son-serveur-web-avec
 ## Utilisation :
 
 ## Ligne de commande :
+
+	- git mergetool				==> 	Gestion des conflits.
+	- git rebase --continue		==>		Permet de continu un rebase qui c'est arrêter pour gérer un conflit.
